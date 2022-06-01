@@ -1,4 +1,4 @@
-# Welcome to JEYARPI FIRM: LEADER IN TECCHIEMENTIZATION
+# Welcome
 ## Systems neuroscience and artificial intelligence
 
 
